@@ -1,0 +1,16 @@
+Roboflow
+
+Building Detection (1 Class, 345 Images)
+https://universe.roboflow.com/19758301-student-curtin-edu-au/building-detection-oijep
+
+Tree Detection (1 Class, 273 Images)
+https://universe.roboflow.com/tree-counting/tree-counting-gz3xz
+
+Drone Detecton (4 Classes (Building, Car, Swimming Pool, Tree), 119 Images)
+https://universe.roboflow.com/mansoura-5lija/drone-detection-pfk9f
+
+Raised Field Segmentation (1 Class, 101 Images)
+https://universe.roboflow.com/individual-project-clghs/detecting-camellones
+
+River Segmentation (7 Classes (Agriculture, Base, Development, Forest, Low Development, Pond, River), 300 Images)
+https://universe.roboflow.com/solved-with-ai/rivers-zmmcd/dataset/1#
